@@ -1,0 +1,5 @@
+export const FETCH_PROFILE = 'FETCH_PROFILE';
+export const FETCH_REPOS = 'FETCH_REPOS';
+export const FETCH_LANGUAGES = 'FETCH_LANGUAGES';
+export const SESSION_CLEAR = 'SESSION_CLEAR';
+export const HANDLE_ERROR = 'HANDLE_ERROR';
